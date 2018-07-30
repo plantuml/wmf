@@ -9,3 +9,8 @@ Files have been generated using https://www.tangiblesoftwaresolutions.com/produc
 This does not compile yet, so any help is welcome.
 
 Once we will have something working, this will be integrated into main PlantUML Library.
+
+Missing stuff:
+
+* BinaryReader / BinaryWriter
+* TODO TASK: There is no preprocessor in Java
